@@ -1,0 +1,24 @@
+{
+  "hourly_current": {
+    "Temperature": "temperature_2m",
+    "Relative Humidity": "relative_humidity_2m", 
+    "Apparent Temperature": "apparent_temperature",
+    "Total Cloud Cover": "cloud_cover",
+    "Precipitation Probability": "precipitation_probability",
+    "Precipitation": "precipitation",
+    "Wind Speed": "wind_speed_10m",
+    "Wind Direction": "wind_direction_10m"
+  },
+  "daily": {
+    "Max Temperature": "temperature_2m_max",
+    "Min Temperature": "temperature_2m_min",
+    "Max Apparent Temperature": "apparent_temperature_max",
+    "Min Apparent Temperature": "apparent_temperature_min",
+    "Precipitation Sum": ["rain_sum", "showers_sum", "snowfall_sum"],
+    "Mean Wind Speed": "wind_speed_10m_mean",
+    "Dominant Wind Direction": "winddirection_10m_dominant",
+    "Mean Precipitation Probability": "precipitation_probability_mean",
+    "Mean Cloud Cover": "cloud_cover_mean",
+    "Mean Relative Humidity": "relative_humidity_2m_mean"
+  }
+}

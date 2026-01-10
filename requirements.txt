@@ -1,0 +1,10 @@
+# Requires Python 3.11+
+streamlit
+plotly
+pandas
+openmeteo-requests
+requests-cache
+retry-requests
+python-dateutil
+requests
+
