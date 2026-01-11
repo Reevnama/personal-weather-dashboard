@@ -8,7 +8,7 @@ The goal of this assignment is to scope, design, implement and document a data d
 
 Other libraries may be used with instructor permission.
 
-Students should use version control for this assignment, both to demonstrate good practice, to demonstrate authorship and to prevent any loss of code or work. You will be provided a repository for your final project on the Queen Mary Enterprise GitHub server. Commit regularly – a branch will be duplicated from the main branch at the deadline above. If you are unable to submit via GitHub, there will be a backup submission point on QM Plus. If you submit this way, please zip your folder and submit. Ensure you include the .git subfolder - just downloading from the GitHub page will not have this by default. Your application must include the code to make the notebook work in either .py  or .ipynb and all requirements, either in a *requirements.txt* file or *pyproject.toml* file. Assets can be included in the ZIP file – it is also possible to use a bash script command to retrieve these.  
+Students should use version control for this assignment, both to demonstrate good practice, to demonstrate authorship and to prevent any loss of code or work. Your application must include the code to make the notebook work in either .py  or .ipynb and all requirements, either in a *requirements.txt* file or *pyproject.toml* file. Assets can be included in the ZIP file – it is also possible to use a bash script command to retrieve these.  
 
 *Please replace this readme file with project documentation.*
 
